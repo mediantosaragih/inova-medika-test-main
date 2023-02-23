@@ -16,6 +16,7 @@
 						<li><a href="/aktivitas" class=""><i class="fa fa-calendar"></i> <span>Aktivitas</span></a></li>
 						@endif
 						<li><a href="/informasi" class=""><i class="fa fa-line-chart"></i> <span>Informasi</span></a></li>
+                        <li><a href="/informasi" class=""><i class="fa fa-line-chart"></i> <span>Laporan</span></a></li>
 				</nav>
 			</div>
 		</div>
