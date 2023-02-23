@@ -58,7 +58,7 @@
 				<span class="icon"><i class="fa fa-user"></i></span>
 				<p>
 					<span class="number">{{totalkonsultasi()}}</span>
-					<span class="title">Total Konssultasi</span>
+					<span class="title">Total Konsultasi</span>
 				</p>
 			</div>
 		</div>
